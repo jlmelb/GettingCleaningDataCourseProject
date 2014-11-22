@@ -5,6 +5,9 @@ Coursera Course Project for the Getting and Cleaning Data
 
 run_analysis.R function's purpose is to generate a tidy data set based on data collected from the accelerometers from the Samsung Galaxy S smartphone.  The tidy set will contain the average of each variable (mean and std, refer to code book for more details) for each activity and each subject.
 
+Data collected for the Galaxy 5 smartphone can be downloaded at:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 To run the function, follow the following steps:
 
 1.  Source the run_analysis.R function
