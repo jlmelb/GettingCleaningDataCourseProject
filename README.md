@@ -19,7 +19,9 @@ The code to run the function would be:
 
 
 directory <- "C:\R\Getting_and_Cleaning_Data\Assignment"
+
 source('C:/R/Getting_and_Cleaning_Data/Assignment/run_analysis.R')
+
 run_analysis(directory)
 
 Once the function has been run, a text file called result.txt will be generated in the same directory.  Please refer to the code book for an explanation of the variables.
